@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{53192744-7D29-45FF-9A9D-8FB2A67A3C82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{26E3183F-A6D9-441B-B135-0AAA7C3961CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{99D96E1F-2488-4F55-B2F8-CBF283AE3650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Services.ProductAPI", "Inveon.Services.ProductAPI\Inveon.Services.ProductAPI.csproj", "{4039188A-0DBD-4326-8844-0C928231A9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Web", "Inveon.Web\Inveon.Web.csproj", "{BE8C829C-46D0-4051-9167-CD009AA96B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.GatewaySolution", "Inveon.GatewaySolution\Inveon.GatewaySolution.csproj", "{3D95A062-A41B-4101-8605-277262E62A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Services.Identity", "Inveon.Services.Identity\Inveon.Services.Identity.csproj", "{2E21C183-3E4D-41D8-ABC7-B747928D58BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Services.ShoppingCartAPI", "Inveon.Services.ShoppingCartAPI\Inveon.Services.ShoppingCartAPI.csproj", "{39CD4D17-9BF7-484C-A72F-54152D398415}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{E18258D6-65A0-4552-8969-17D32D81B2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.MessageBus", "Inveon.MessageBus\Inveon.MessageBus.csproj", "{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Services.CouponAPI", "Inveon.Services.CouponAPI\Inveon.Services.CouponAPI.csproj", "{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inveon.Services.OrderAPI", "Inveon.Services.OrderAPI\Inveon.Services.OrderAPI.csproj", "{58DC4CCA-E06A-4E60-AD04-A660A2809180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4039188A-0DBD-4326-8844-0C928231A9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4039188A-0DBD-4326-8844-0C928231A9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4039188A-0DBD-4326-8844-0C928231A9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4039188A-0DBD-4326-8844-0C928231A9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8C829C-46D0-4051-9167-CD009AA96B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8C829C-46D0-4051-9167-CD009AA96B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8C829C-46D0-4051-9167-CD009AA96B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8C829C-46D0-4051-9167-CD009AA96B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D95A062-A41B-4101-8605-277262E62A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D95A062-A41B-4101-8605-277262E62A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D95A062-A41B-4101-8605-277262E62A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D95A062-A41B-4101-8605-277262E62A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E21C183-3E4D-41D8-ABC7-B747928D58BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E21C183-3E4D-41D8-ABC7-B747928D58BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E21C183-3E4D-41D8-ABC7-B747928D58BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E21C183-3E4D-41D8-ABC7-B747928D58BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CD4D17-9BF7-484C-A72F-54152D398415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CD4D17-9BF7-484C-A72F-54152D398415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CD4D17-9BF7-484C-A72F-54152D398415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CD4D17-9BF7-484C-A72F-54152D398415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DC4CCA-E06A-4E60-AD04-A660A2809180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DC4CCA-E06A-4E60-AD04-A660A2809180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DC4CCA-E06A-4E60-AD04-A660A2809180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DC4CCA-E06A-4E60-AD04-A660A2809180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4039188A-0DBD-4326-8844-0C928231A9EF} = {99D96E1F-2488-4F55-B2F8-CBF283AE3650}
+		{BE8C829C-46D0-4051-9167-CD009AA96B22} = {53192744-7D29-45FF-9A9D-8FB2A67A3C82}
+		{3D95A062-A41B-4101-8605-277262E62A58} = {26E3183F-A6D9-441B-B135-0AAA7C3961CA}
+		{2E21C183-3E4D-41D8-ABC7-B747928D58BE} = {99D96E1F-2488-4F55-B2F8-CBF283AE3650}
+		{39CD4D17-9BF7-484C-A72F-54152D398415} = {99D96E1F-2488-4F55-B2F8-CBF283AE3650}
+		{F6B5EF16-3732-44F1-8EB0-BEBB3B23C2C9} = {E18258D6-65A0-4552-8969-17D32D81B2C7}
+		{C226ADFD-44F3-4BFD-8DDD-3CC1F1834131} = {99D96E1F-2488-4F55-B2F8-CBF283AE3650}
+		{58DC4CCA-E06A-4E60-AD04-A660A2809180} = {99D96E1F-2488-4F55-B2F8-CBF283AE3650}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7B44C6-F27A-4F9E-AD4A-0BAD4E1BFCCD}
+	EndGlobalSection
+EndGlobal

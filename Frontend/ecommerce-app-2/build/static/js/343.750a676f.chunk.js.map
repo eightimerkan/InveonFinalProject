@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/343.750a676f.chunk.js","mappings":"mJASA,UAPiB,WACb,OACI,oEAIP,C","sources":["page/Register/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Register = ()=> {\r\n    return(\r\n        <div>\r\n            Burasi  Register Sayfasıdır..\r\n        </div>\r\n    )\r\n}\r\nexport default Register"],"names":[],"sourceRoot":""}

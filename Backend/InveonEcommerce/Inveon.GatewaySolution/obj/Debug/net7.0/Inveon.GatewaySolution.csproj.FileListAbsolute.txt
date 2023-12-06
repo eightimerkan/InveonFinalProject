@@ -1,0 +1,98 @@
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\appsettings.Development.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\appsettings.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.exe
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.deps.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.runtimeconfig.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.pdb
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\FluentValidation.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\IdentityModel.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Ocelot.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.AssemblyReference.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.AssemblyInfoInputs.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.AssemblyInfo.cs
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.CoreCompileInputs.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.Inveon.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.build.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.build.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.development.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\scopedcss\bundle\Inveon.GatewaySolution.styles.css
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.CopyComplete
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\refint\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.pdb
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.genruntimeconfig.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce\Inveon.GatewaySolution\obj\Debug\net7.0\ref\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\appsettings.Development.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\appsettings.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.exe
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.deps.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.runtimeconfig.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Inveon.GatewaySolution.pdb
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\FluentValidation.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\IdentityModel.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Ocelot.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.AssemblyReference.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.AssemblyInfoInputs.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.AssemblyInfo.cs
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.CoreCompileInputs.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.Inveon.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.build.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Inveon.GatewaySolution.props
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.build.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\staticwebassets.development.json
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\scopedcss\bundle\Inveon.GatewaySolution.styles.css
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.csproj.CopyComplete
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\refint\Inveon.GatewaySolution.dll
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.pdb
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\Inveon.GatewaySolution.genruntimeconfig.cache
+D:\eightimerkan\source\repos\InveonEcommerce\InveonEcommerce - AnaDegistirilmed\Inveon.GatewaySolution\obj\Debug\net7.0\ref\Inveon.GatewaySolution.dll

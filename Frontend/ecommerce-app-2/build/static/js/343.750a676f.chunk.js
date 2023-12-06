@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkecommerce_app_2=self.webpackChunkecommerce_app_2||[]).push([[343],{5343:function(e,r,c){c.r(r);c(2791);var a=c(184);r.default=function(){return(0,a.jsx)("div",{children:"Burasi  Register Sayfas\u0131d\u0131r.."})}}}]);
+//# sourceMappingURL=343.750a676f.chunk.js.map

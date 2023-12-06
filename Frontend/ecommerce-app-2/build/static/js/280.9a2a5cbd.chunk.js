@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkecommerce_app_2=self.webpackChunkecommerce_app_2||[]).push([[280],{9280:function(e,c,r){r.r(c);r(2791);var a=r(184);c.default=function(){return(0,a.jsx)("div",{children:"Burasi  Login Sayfas\u0131d\u0131r.."})}}}]);
+//# sourceMappingURL=280.9a2a5cbd.chunk.js.map
